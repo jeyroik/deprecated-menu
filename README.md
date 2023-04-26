@@ -1,0 +1,2 @@
+# deprecated-menu
+Deprecated package
