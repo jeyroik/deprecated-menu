@@ -1,0 +1,15 @@
+{
+  "name": "jeyroik/deprecated-menu",
+  "description": "Deprecated package",
+  "require": {
+    "psr/container": "1.0.0",
+    "league/container": "3.3.1",
+    "mongodb/mongodb": "1.1.0",
+    "jeyroik/extas-m": "2.2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "df\\": "src/"
+    }
+  }
+}
