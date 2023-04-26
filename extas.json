@@ -1,0 +1,19 @@
+{
+    "title": "",
+    "description": "",
+    "schema": "1.0",
+    "plugins": [],
+    "extensions": [
+        {
+            "class": "df\\components\\extensions\\menus\\MenuContextExtension",
+            "interface": "df\\interfaces\\extensions\\menus\\IMenuContextExtension",
+            "subject": "context",
+            "methods": [
+                "setMenu",
+                "getMenu",
+                "setMenuView",
+                "getMenuView"
+            ]
+        }
+    ]
+}
