@@ -2,7 +2,7 @@
   "name": "jeyroik/deprecated-menu",
   "description": "Deprecated package",
   "require": {
-    "jeyroik/extas-m": "2.2.4"
+    "jeyroik/extas-m": "2.*"
   },
   "autoload": {
     "psr-4": {
